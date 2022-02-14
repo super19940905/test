@@ -157,7 +157,7 @@ export default {
         },
         //收入明细删除按钮
         income_remove() {
-
+            
         },
         //支出明细删除按钮
         expenditure_remove() {
